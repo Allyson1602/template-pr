@@ -14,4 +14,5 @@
 - [ ] Todos os testes passaram
 - [ ] Minhas alterações não geram novos avisos (warning, error)
 
-[^1]: Este template de PR está em constante aprimoramento para otimizar o processo, e todos os desenvolvedores podem contribuir para sua melhoria contínua.
+<br><br>
+Este template de PR está em constante aprimoramento para otimizar o processo, e todos os desenvolvedores podem contribuir para sua melhoria contínua.
