@@ -1,5 +1,5 @@
 ### Template para Pull Request
-> Usar templates de Pull Request (PR) no GitHub ajuda a padronizar contribuições, garantindo que todos os PRs incluam informações essenciais para revisão, facilitando a colaboração e manutenção do código.<br><br>
+> Usar templates de Pull Request (PR) ajuda a padronizar contribuições, garantindo que todos os PRs incluam informações essenciais para revisão, facilitando a colaboração e manutenção do código.<br><br>
 
 #### Explicação de algum componente ou funcionalidade:<br><br>
 
